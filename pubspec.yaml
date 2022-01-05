@@ -22,9 +22,10 @@ dependencies:
   visibility_detector: 
   path_provider: 
   collection: 
+  xml:
 
 dev_dependencies:
-  lint: ^1.8.1
+  lint:
   flutter_test:
     sdk: flutter
   flutter_localizations:
